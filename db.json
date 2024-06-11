@@ -2,7 +2,7 @@
   "videos": [
     {
       "id": 1,
-      "titulo": "Conhecendo a linguagem Go | Hipsters.Talks",
+      "titulo": "Acessibilidade Web com Charles Assunção | #HipstersPontoTube",
       "descricao": "3 mil visualizações",
       "url": "https://www.youtube.com/embed/y8FeZMv37WU",
       "imagem": "https://github.com/MonicaHillman/aluraplay-requisicoes/blob/main/img/logo.png?raw=true"
@@ -83,6 +83,13 @@
       "url": "https://www.youtube.com/embed/IGFSiBJIXFQ",
       "imagem": "https://purr.objects-us-east-1.dream.io/i/OoNx6.jpg",
       "id": 12
+    },
+    {
+      "titulo": "Tutorial: Como CRIAR um CHATBOT com a API do Google GEMINI? | IAs Generativas",
+      "descricao": "13 mil visualizações",
+      "url": "https://youtube.com/embed/rGchz3aKFt8",
+      "imagem": "https://purr.objects-us-east-1.dream.io/i/OoNx6.jpg",
+      "id": 13
     }
   ]
 }
